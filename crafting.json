@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "name": "C0reScripts Crafting System",
+  "changelog": [
+    "Initial release",
+    "ESX crafting system with levels & XP",
+    "Black & white elegant UI theme",
+    "Anti-rename protection"
+  ],
+  "granted_assets_id": "797597",
+  "required_dependencies": [
+    "es_extended",
+    "oxmysql",
+    "ox_lib",
+    "ox_target"
+  ]
+}
